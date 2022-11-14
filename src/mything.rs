@@ -1,8 +1,6 @@
 mod a;
 mod b;
 
-use std::ops::Index;
-
 struct MyStruct {
     a: i32
 }
